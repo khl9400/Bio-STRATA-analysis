@@ -32,3 +32,22 @@ Install the required packages with:
 
 ```bash
 pip install pandas openpyxl
+```
+
+## Data Availability
+
+**NCBI BioProject: PRJNA1517760**
+
+The raw sequencing data generated in this study have been deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession **PRJNA1517760**.
+
+## Code Availability
+
+The custom Python scripts used for amplicon sequencing analysis are provided in this repository.
+
+A versioned release of the analysis code is archived on Zenodo.
+
+**Zenodo DOI: https://doi.org/10.5281/zenodo.22090666**
+
+## License
+
+This project is distributed under the MIT License. See the `LICENSE` file for details.
